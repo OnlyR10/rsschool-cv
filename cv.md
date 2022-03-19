@@ -5,7 +5,7 @@
 
 
 ## Contacts for communication
-- Discord: @OnlyR10
+- Discord: Kirill Naydovich#3840
 - Gmail: [kirillnaydovich@gmail.com](mailto:kirillnaydovich@gmail.com)
 - Linkedin: [@kirill-naydovich](https://www.linkedin.com/in/kirill-naydovich/)
 
