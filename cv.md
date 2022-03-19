@@ -1,5 +1,9 @@
 # Kirill Naydovich
 
+
+![MyPhoto](https://drive.google.com/file/d/1JIPU7XzSAHVAc_Nj-iioPfi_bqWLZJtB/view?usp=sharing)
+
+
 ## Contacts for communication
 - Discord: @OnlyR10
 - Gmail: [kirillnaydovich@gmail.com](mailto:kirillnaydovich@gmail.com)
