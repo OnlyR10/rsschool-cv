@@ -2,8 +2,8 @@
 
 ## Contacts for communication
 - Discord: @OnlyR10
-- Gmail: kirillnaydovich@gmail.com
-- Linkedin: @kirill-naydovich
+- Gmail: [kirillnaydovich@gmail.com](mailto:kirillnaydovich@gmail.com)
+- Linkedin: [@kirill-naydovich](https://www.linkedin.com/in/kirill-naydovich/)
 
 ---
 ## Brief information about yourself
@@ -35,7 +35,7 @@ console.log(solution(100));
 
 ---
 ## Work experience
-### **TheGame66**
+### **[TheGame66](https://github.com/OnlyR10/TheGame66)**
 
 Own project
 
@@ -45,13 +45,13 @@ Technology: HTML, CSS, Vanilla JS, CSS animations, Cloud Firestore
 
 ---
 ## Education 
-1. "Web Application Development with JavaScript"
+1. ["Web Application Development with JavaScript"](https://www.it-academy.by/course/front-end-developer/razrabotka-veb-prilozheniy-na-javascript/)
 
    *OCTOBER 2021 – JANUARY 2022*
 
-   IT Academy
+   [IT Academy](https://www.it-academy.by/)
 
-   Certificate
+   [Certificate](https://drive.google.com/file/d/14t5qXtHRrSivxmbY9TWkfuTxCpj-qUpm/view)
 
 
 2. Educational Institution "Military Academy of the Republic of Belarus", Minsk - Master
