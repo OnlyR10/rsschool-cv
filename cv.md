@@ -1,7 +1,7 @@
 # Kirill Naydovich
 
 
-![MyPhoto](https://drive.google.com/file/d/1JIPU7XzSAHVAc_Nj-iioPfi_bqWLZJtB/view?usp=sharing)
+![MyPhoto](https://sun1.beltelecom-by-minsk.userapi.com/s/v1/if2/LMliNhBDo72CfXlrKOaS49uX2evt9Gqrl1zSdUafxq4b7VRLEbgc1rWEe5g4GFsezuJiZ1KGkOEFmQcPJaYJa0ir.jpg?size=200x266&quality=96&crop=0,0,1536,2048&ava=1)
 
 
 ## Contacts for communication
